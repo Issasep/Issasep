@@ -4,31 +4,31 @@
   <img src="https://raw.githubusercontent.com/Issasep/Issasep/main/Banner.png" width="100%">
 </p>
 
-<h1 align="center">Hola 👋, soy Sara Isabel Sepúlveda</h1>
+<h1 align="center">Hi 👋, I'm Sara Isabel Sepúlveda</h1>
 
 <p align="center">
-🎓 Estudiante de Ingeniería de Sistemas <br>
-🌐 Interesada en redes, programación y tecnología <br>
-🚀 Actualmente aprendiendo Networking con Cisco NetAcad
+🎓 Systems & Computer Engineering student <br>
+🌐 Interested in networking, coding and technology <br>
+🚀 Currently learning networking at Cisco NetAcd
 </p>
 
 ---
 
-# 👩‍💻 Sobre mí
+# 👩‍💻 About me
 
-Soy estudiante de **Ingeniería de Sistemas (5° semestre)** apasionada por la tecnología y el aprendizaje continuo.
+I am a student in  **Systems & Computer Engineering** passionate for technology and learning.
 
-Actualmente estoy desarrollando habilidades en:
+Currently developing skills in:
 
 * 🌐 **Networking**
-* ☕ **Programación en Java**
-* 🏢 **Tecnologías empresariales como SAP**
-* 💻 **Herramientas de desarrollo**
-* 🔧 **Control de versiones con Git**
+* ☕ **Java and python**
+* 🏢 **Bussines technologies such as SAP**
+* 💻 **Software develompent tools**
+* 🔧 **Version contro with Git**
 
 ---
 
-# 🛠️ Tecnologías y herramientas
+# 🛠️ Technologies and tools
 
 <p align="center">
   
@@ -52,7 +52,7 @@ Actualmente estoy desarrollando habilidades en:
 
 ---
 
-# 🔥 Actividad en GitHub
+# 🔥 GitHub Activity
 
 <p align="center">
 
@@ -62,7 +62,7 @@ Actualmente estoy desarrollando habilidades en:
 
 ---
 
-# 📫 Contacto
+# 📫 Contact me
 
 <p align="center">
 
@@ -77,5 +77,3 @@ Actualmente estoy desarrollando habilidades en:
 </p>
 
 ---
-
-⭐ *Siempre aprendiendo y creciendo en el mundo de la tecnología.*
