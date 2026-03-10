@@ -1,7 +1,7 @@
 <!-- BANNER -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Issasep/Issasep/main/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Issasep/Issasep/main/Banner.png" width="100%">
 </p>
 
 <h1 align="center">Hola 👋, soy Sara Isabel Sepúlveda</h1>
@@ -25,8 +25,6 @@ Actualmente estoy desarrollando habilidades en:
 * 🏢 **Tecnologías empresariales como SAP**
 * 💻 **Herramientas de desarrollo**
 * 🔧 **Control de versiones con Git**
-
-Siempre estoy buscando **aprender nuevas tecnologías y mejorar mis habilidades en el mundo IT**.
 
 ---
 
