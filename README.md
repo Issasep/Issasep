@@ -1,10 +1,10 @@
 <!-- BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Sara%20Isabel&fontSize=40&fontColor=ffffff" />
+  <img src="https://raw.githubusercontent.com/Issasep/Issasep/main/banner.png" width="100%">
 </p>
 
-<h1 align="center">Hola 👋, soy Sara Isabel</h1>
+<h1 align="center">Hola 👋, soy Sara Isabel Sepúlveda</h1>
 
 <p align="center">
 🎓 Estudiante de Ingeniería de Sistemas <br>
