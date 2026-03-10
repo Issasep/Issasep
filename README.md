@@ -7,7 +7,8 @@
 <h1 align="center">Hi 👋, I'm Sara Isabel Sepúlveda</h1>
 
 <p align="center">
-🎓 Systems & Computer Engineering student <br>
+🎓 Systems & Computer Engineering student | UNAL <br>
+📍 Bogota, Colombia <br>
 🌐 Interested in networking, coding and technology <br>
 🚀 Currently learning networking at Cisco NetAcd
 </p>
@@ -21,8 +22,8 @@ I am a student in  **Systems & Computer Engineering** passionate for technology 
 Currently developing skills in:
 
 * 🌐 **Networking**
-* ☕ **Java and python**
-* 🏢 **Bussines technologies such as SAP**
+* 👾 **Coding**
+* 🏢 **Bussines technologies**
 * 💻 **Software develompent tools**
 * 🔧 **Version contro with Git**
 
@@ -51,7 +52,20 @@ Currently developing skills in:
 </p>
 
 ---
+## 💻 Technical Skills
 
+- Programming: Java, Python
+- Networking Fundamentals
+- SAP Fundamentals
+---
+## 🤝 Soft Skills
+
+- Problem Solving
+- Analytical Thinking
+- Teamwork
+- Continuous Learning
+  
+---
 # 🔥 GitHub Activity
 
 <p align="center">
@@ -60,6 +74,12 @@ Currently developing skills in:
 
 </p>
 
+---
+## 🌎 Languages
+
+- Spanish – Native
+- English – Advanced
+- French - Intermediate
 ---
 
 # 📫 Contact me
